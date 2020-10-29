@@ -1,2 +1,4 @@
 # compile -> run file
-./**/test
+
+# algorithm/boj/step/**/
+/boj/**/**/test
